@@ -42,7 +42,7 @@ var FolderName = PCODE;
 var SMSFrom = "md-goyals";
 var HomeSlideCnt = "1";
 var pDiscOnOrder = "1";
-var pWallet = "0";
+var pWallet = "1";
 var pDiscPer = "";
 var pDocReq = "1";
 //////*********************Generlized App*****************************//////////////
